@@ -6,7 +6,8 @@
         "radio": "*",
         "microphone": "*",
         "SSD1306_OLED": "github:tinkertanker/pxt-oled-ssd1306#v2.0.18",
-        "Microbit Sound RGB - 複製": "github:tonywen48/microbit-sound-rgb#master"
+        "Microbit Sound RGB - 複製": "github:tonywen48/microbit-sound-rgb#master",
+        "radio-broadcast": "*"
     },
     "files": [
         "main.blocks",
